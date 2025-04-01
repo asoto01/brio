@@ -5,8 +5,8 @@ Tools in Python or Javascript to automate MealTime Tasks with vigor!
 ## MealTime Scripts 
 The purpose for these MealTime scripts are to save time on the ASP based web applicaiton. A batch upload for Ids does not exist in the system and thus a user has to enter them manually in the UI. The scripts allow you to automate it either with Python or with Javascript. The Python solution requires running a selenium server and then running a Python script. The Javascript solution can run on the web browser itself. The python solution requires more time to setup but can read from a csv file where the other requires less time to set up but you have to manually paste the Ids into the code. 
 
-## Efficiency Spotlight: JavaScript Automation 
-The JavaScript solution is a game-changer for efficiency:
+## Efficiency Spotlight 
+The solutions are a game-changer for efficiency:
 - **Before**: A skilled typist might take 3-10 seconds per meal input (best-case: 3 seconds with efficient copy-pasting, worst-case: 10 seconds).
 - **After**: Optimized to **<0.5 seconds per input**, a reduction of over 83-95% in processing time.
 - **Real-World Impact**: For 368 meals:
